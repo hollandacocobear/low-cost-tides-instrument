@@ -1,4 +1,4 @@
-# low-cost-tides-instrument
+# Low Cost Tides Instrument
 instrument to measure sea level based on pressure sensor using Arduino
 
 This instrument use Arduino Uno/Nano as main microcontroller.
